@@ -4,13 +4,13 @@
 
 Removes all spaces from a string.
 
-##Install
+## Install
 
 ```
 $npm install @d_ivanov/tiny
 ```
 
-##Usage
+## Usage
 
 ```js
 const tiny = require("@d_ivanov/tiny");
